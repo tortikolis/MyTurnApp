@@ -1,0 +1,26 @@
+{
+  "name": "myturnapp",
+  "version": "1.0.0",
+  "description": "App that helps with organization of work in line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tortikolis/MyTurnApp.git"
+  },
+  "author": "Jovica Krivosija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tortikolis/MyTurnApp/issues"
+  },
+  "homepage": "https://github.com/tortikolis/MyTurnApp#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
